@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kenshqw
+- 👋 Hi, I’m ken.
 - 👀 I’m interested in generative art.
 - 🌱 I’m currently learning Javascript.
 
