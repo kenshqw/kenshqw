@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ken.
-- 👀 I’m interested in generative art.
+- 👀 I’m interested in front end web development.
 - 🌱 I’m currently learning Javascript.
 
 <!---
