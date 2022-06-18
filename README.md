@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ken.
 - 👀 I’m interested in front end web development.
-- 🌱 I’m currently learning Javascript throught the odin project.
+- 🌱 I’m currently learning Javascript with the odin project.
 
 <!---
 kenshqw/kenshqw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
