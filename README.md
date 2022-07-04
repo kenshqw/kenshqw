@@ -1,4 +1,4 @@
-Hello, I'm Ken. During the later portion of the pandemic I was introduced to web development, and have spent this summer working on the curriculum provided by the Odin Project. The plan is to complete the curriculum and post my progress on here. I've come to notice that I'm really getting into the UI aspect of web development, so it might take me a little more time than usual for me to be sastified enough to post whatever project I'm working on at the moment but I really am looking forward to looking back and seeing my progression.
+ The plan is to complete the odin project and post my progress on here. I've come to notice that I'm really getting into the UI aspect of web development, so it might take me a little more time than usual for me to be sastified enough to post whatever project I'm working on at the moment but I really am looking forward to looking back and seeing my progression.
 
 Currently familiar with:
 HTML, CSS, and Javascript. 
