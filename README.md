@@ -4,7 +4,7 @@ Currently familiar with:
 HTML, CSS, and Javascript. 
 
 Currently working on:
-Odin Project: Sign-up Form and Calculator.
+Odin Project: Etch-A-Sketch & Updating landing page.
 
 <!---
 kenshqw/kenshqw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
