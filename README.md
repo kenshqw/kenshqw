@@ -1,5 +1,5 @@
 Currently learning:
-Front end development, one odin project assignment at a time. 
+Front end development through the Odin Project!
 
 Currently familiar with:
 HTML, CSS, and Javascript. 
