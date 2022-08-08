@@ -5,5 +5,5 @@ Currently familiar with:
 HTML, CSS, and Javascript. 
 
 Currently working on:
-Odin Project: Rock, Paper, Scissors and Library App.
+Odin Project: Library App.
 
