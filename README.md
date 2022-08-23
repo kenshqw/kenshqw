@@ -5,5 +5,5 @@ Currently familiar with:
 HTML, CSS, and Javascript. 
 
 Currently working on:
-Odin Project: Library App.
+Odin Project: Restaurant Website w/ Webpack.
 
