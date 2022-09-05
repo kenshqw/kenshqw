@@ -5,5 +5,5 @@ Currently familiar with:
 HTML, CSS, and Javascript. 
 
 Currently working on:
-Odin Project: Restaurant Website w/ Webpack.
+Odin Project: TIC-TAC-TOE.
 
