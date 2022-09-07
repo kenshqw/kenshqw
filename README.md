@@ -5,5 +5,5 @@ Currently familiar with:
 HTML, CSS, and Javascript. 
 
 Currently working on:
-Odin Project: TIC-TAC-TOE.
+Odin Project: Tic-Tac-Toe.
 
