@@ -2,7 +2,7 @@ Currently learning:
 Front end development through the Odin Project.
 
 Currently familiar with:
-HTML, CSS, and Javascript. 
+HTML, CSS, Javascript, and Node.js. 
 
 Currently working on:
 Odin Project: Task-manager.
