@@ -5,5 +5,5 @@ Currently familiar with:
 HTML, CSS, Javascript, and Node.js. 
 
 Currently working on:
-Odin Project: Task-manager.
+Odin Project: Shopping Cart.
 
