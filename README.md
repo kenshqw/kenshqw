@@ -1,6 +1,6 @@
   Hello - My name is Kenshaw.
   
-  I am programming enthusiast with a background in biology; who is looking to make a pivot into the world of development!
+  I am programming enthusiast with a background in biology, who is looking to make a pivot into the world of development!
   
   🌱 Interests:
   
