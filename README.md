@@ -1,6 +1,6 @@
   Hello - My name is Kenshaw.
   
-  I'm a Biology student and programming enthusiast!
+  I'm a biology student turned programming enthusiast!
   
   🌱 Interests:
   
